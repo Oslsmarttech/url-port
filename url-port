@@ -1,14 +1,2 @@
-[{
-  "url": "smarttech.vertexline.com",
-  "Port": "99",
-  "wp": "https",
-  "urlPort": "https://smarttech.vertexline.com/99",
-  "imageLink": "https://github.com/Oslsmarttech/vertexImage/blob/main/vertex.jpg?raw=true"
-},
-{
-  "url": "172.16.0.21",
-  "Port": "90",
-  "wp": "http",
-  "urlPort": "http://172.16.0.21/90",
-  "imageLink": "https://github.com/Oslsmarttech/vertexImage/blob/main/vertex.jpg?raw=true"
-}]
+https://smarttech.vertexline.com/99,
+http://172.16.0.21/90
